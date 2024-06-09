@@ -1,0 +1,17 @@
+h2{
+    font-size: 80px;
+    color: #F39C12;
+    display: flex;
+    justify-content: center;
+}
+p{
+    font-size: 40px;
+    color: #283747  ;
+    display: flex;
+    justify-content: center;
+    padding-left: 425px;
+    padding-right: 425px;
+}
+body{
+
+}
